@@ -7,9 +7,8 @@ setup(
     description='Python implementation of sleepsort',
     author='Jiaxi Gu',
     author_email='jiaxi.gu@epfl.ch',
-    url='https://github.com/Jiaxigu/sleepsort'
+    url='https://github.com/Jiaxigu/sleepsort',
     license='MIT',
     install_requires=[],
-    packages=['sleepsort'],
-    py_modules=['sleepsort']
+    packages=['sleepsort']
 )

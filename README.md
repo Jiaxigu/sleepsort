@@ -1,2 +1,30 @@
 # sleepsort
-Sleepsort as template of a distributable Python package
+
+Python implementation of sleepsort.
+
+Mainly serves as a template of distributable Python package.
+
+## Install
+
+	>>> python setup.py install
+
+## Test
+
+TBA
+	
+## Use
+
+Sometimes it works
+
+	>>> sleepsort([2, 1, 3], interval=0.1)
+	<<< [1, 2, 3]
+	
+And sometimes it doesn't...
+
+	>>> sleepsort([6, 5, 2, 1, 4, 3, 9, 7, 8], interval=0.001)
+	<<< [1, 2, 3, 4, 5, 7, 6, 8, 9]
+	
+## Reference
+
+- More on sleepsort: [https://www.quora.com/What-is-sleep-sort](https://www.quora.com/What-is-sleep-sort)
+- More on python package template: [https://github.com/kennethreitz/samplemod](https://github.com/kennethreitz/samplemod)

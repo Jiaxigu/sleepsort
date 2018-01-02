@@ -5,6 +5,11 @@
     - "3.4"
     - "3.5"
     - "3.6"
+  install:
+    - pip install coveralls
+    - pip install coverage
   script:
     - python setup.py install
-    - python test.py -v
+    - coverage run test.py -v
+  after_success:
+    - coveralls

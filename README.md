@@ -2,7 +2,7 @@
 
 Python implementation of sleepsort.
 
-Mainly serves as a template of distributable Python package.
+Mainly serves as a minimal template of distributable Python package.
 
 ## Install
 
@@ -10,7 +10,7 @@ Mainly serves as a template of distributable Python package.
 
 ## Test
 
-TBA
+	>>> python test.py -v
 	
 ## Use
 

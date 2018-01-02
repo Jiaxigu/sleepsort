@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Jiaxigu/sleepsort.svg?branch=master)](https://travis-ci.org/Jiaxigu/sleepsort)
+
+
 # sleepsort
 
 Python implementation of sleepsort.

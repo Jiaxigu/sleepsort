@@ -6,4 +6,5 @@
     - "3.5"
     - "3.6"
   script:
+    - python setup.py install
     - python test.py -v

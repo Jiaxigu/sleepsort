@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Jiaxigu/sleepsort.svg?branch=master)](https://travis-ci.org/Jiaxigu/sleepsort)
+[![Coverage Status](https://coveralls.io/repos/github/Jiaxigu/sleepsort/badge.svg?branch=master)](https://coveralls.io/github/Jiaxigu/sleepsort?branch=master)
 
 
 # sleepsort
@@ -31,3 +32,4 @@ And sometimes it doesn't...
 
 - More on sleepsort: [https://www.quora.com/What-is-sleep-sort](https://www.quora.com/What-is-sleep-sort)
 - More on python package template: [https://github.com/kennethreitz/samplemod](https://github.com/kennethreitz/samplemod)
+- More on coveralls integration: [https://github.com/coveralls-clients/coveralls-python](https://github.com/coveralls-clients/coveralls-python)
